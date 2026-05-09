@@ -45,7 +45,6 @@ email=sam@gmail.com%26+sleep+10+%23
 
 ### 2. Lab Successfully Solved
 
-
 ![Output](../images/Lab2/solved.png)
 
 ---
