@@ -41,7 +41,7 @@ email=sam@gmail.com%26+sleep+10+%23
 
 ### 1. Injecting the Sleep Payload
 
-![Command Injection](../images/Lab2/injectingPayloadToCheckCmdInjection.png)
+![Command Injection](../images/Lab2/injectingPayloadToCheckCmdInjection.png?v=1)
 
 ### 2. Lab Successfully Solved
 
